@@ -1,6 +1,4 @@
 # E-commerce SQL Project
-
-## Project Overview
 This project analyzes sales data from an e-commerce platform to gain insights into customer behavior, sales performance, and product trends. Using SQL queries executed in a Python Jupyter Notebook, this analysis explores various dimensions of the data, from basic customer information to advanced sales metrics.
 
 ## Objectives
@@ -14,11 +12,9 @@ This project analyzes sales data from an e-commerce platform to gain insights in
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn` for data analysis and visualization
 
 ## Dataset
-- **Source**: [Provide the source of your dataset, e.g., Kaggle, simulated dataset]
 - **Structure**: The dataset contains tables such as `Orders`, `Customers`, `Products`, and `Categories`.
 
 ## Queries
-
 ### Basic Queries
 1. **List all unique cities where customers are located.**
    ```sql
@@ -143,4 +139,7 @@ This project analyzes sales data from an e-commerce platform to gain insights in
    ```
 
 ## Conclusion
-This project showcases the ability to perform in-depth analysis on e-commerce sales data using SQL queries. The insights gained from this analysis can assist in making data-driven decisions to improve sales strategies, customer engagement, and overall business performance.
+This project showcases my ability to perform in-depth analyses of e-commerce sales data using SQL queries. The insights gained can assist businesses in making data-driven decisions to improve sales strategies, enhance customer engagement, and boost overall performance.
+
+You can access the dataset for this project here: https://drive.google.com/drive/folders/1RrNRQ6aStExon5HBaID0H2AywA0u_qoX
+
